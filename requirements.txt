@@ -1,0 +1,4 @@
+numpy
+pillow
+opencv-python-headless
+git+https://github.com/gnipbao/whiteboard-video-engine.git

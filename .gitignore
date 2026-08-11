@@ -1,0 +1,22 @@
+# environments
+.whiteboard-venv/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# working outputs (images/videos with potential portrait/copyright content)
+runs/
+output/
+handdraw-runs/
+assets/
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webm
+
+# local noise
+.DS_Store
+*.log
